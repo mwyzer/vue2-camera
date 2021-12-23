@@ -19,3 +19,4 @@ npm run serve
 npm run build
 ```
 # vue-pwa-camera
+# vue2-camera
